@@ -5,7 +5,7 @@ O Discord é uma plataforma de comunicação para comunidades online, oferecendo
 
 ## Dados do Mercado
 
-- **Nicho de Mercado**: O Discord atende a uma ampla gama de nichos, incluindo jogadores, criadores de conteúdo, comunidades de arte, grupos de estudo Os servidores Discord reúnem os usuários para discutir desde o design de jogos até a produtividade e o desenvolvimento de aplicativos e internet, já que a base de usuários Discord tem diversos gostos.
+- **Nicho de Mercado**: O Discord atende a uma ampla gama de nichos, incluindo jogadores, criadores de conteúdo, comunidades de arte, grupos de estudo, os servidores Discord reúnem os usuários para discutir desde o design de jogos até a produtividade e o desenvolvimento de aplicativos e internet, já que a base de usuários Discord tem diversos gostos.
   
 - **Número de Clientes**: O Discord possui mais de 350 milhões de usuários registrados em todo o mundo, com mais de 150 milhões de usuários ativos mensais.
   
