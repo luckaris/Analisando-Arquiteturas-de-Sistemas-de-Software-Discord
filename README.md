@@ -1,1 +1,1 @@
-# nalisando-Arquiteturas-de-Sistemas-de-Software-Discord
+# Analisando-Arquiteturas-de-Sistemas-de-Software-Discord
