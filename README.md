@@ -7,9 +7,9 @@ O Discord é uma plataforma de comunicação para comunidades online, oferecendo
 
 - **Nicho de Mercado**: O Discord atende a uma ampla gama de nichos, incluindo jogadores, criadores de conteúdo, comunidades de arte, grupos de estudo, os servidores Discord reúnem os usuários para discutir desde o design de jogos até a produtividade e o desenvolvimento de aplicativos e internet, já que a base de usuários Discord tem diversos gostos.
   
-- **Número de Clientes**: O Discord possui mais de 350 milhões de usuários registrados em todo o mundo, com mais de 150 milhões de usuários ativos mensais.
+- **Número de Clientes**: O Discord possui mais de 450 milhões de usuários registrados em todo o mundo, com mais de 175 milhões de usuários ativos mensais.
   
-- **Número de Acessos Simultâneos**: Durante períodos de pico, o Discord pode registrar mais de 13,5 milhões de usuários simultâneos, especialmente durante eventos ao vivo, lançamentos de jogos populares e horários de pico em diferentes fusos horários.
+- **Número de Acessos Simultâneos**: Durante períodos de pico, o Discord pode registrar mais de 10,6 milhões de usuários simultâneos, especialmente durante eventos ao vivo, lançamentos de jogos populares e horários de pico em diferentes fusos horários.
 
 ## Requisitos de Arquitetura
 
