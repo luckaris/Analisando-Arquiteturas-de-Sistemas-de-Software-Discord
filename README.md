@@ -11,14 +11,6 @@ O Discord é uma plataforma de comunicação para comunidades online, oferecendo
   
 - **Número de Acessos Simultâneos**: Durante períodos de pico, o Discord pode registrar mais de 10,6 milhões de usuários simultâneos, especialmente durante eventos ao vivo, lançamentos de jogos populares e horários de pico em diferentes fusos horários.
 
-## Requisitos de Arquitetura
-
-- **Escalabilidade**: A arquitetura do Discord é projetada para lidar com aumentos repentinos na demanda de tráfego. Seu sistema é capaz de escalar horizontalmente para acomodar picos de acesso, com uma infraestrutura capaz de suportar mais de 250 mil conexões por servidor.
-  
-- **Resiliência**: O sistema é altamente resiliente, com uma arquitetura distribuída que permite a recuperação rápida de falhas de hardware e software sem impactar a experiência do usuário.
-  
-- **Latência Baixa**: A latência média do Discord é mantida abaixo de 50 milissegundos para garantir uma experiência de comunicação fluida, especialmente durante chamadas de voz e vídeo.
-
 ## Tecnologias Utilizadas
 
 - **Arquitetura de Microsserviços**: O Discord é construído com uma arquitetura de microsserviços, que permite o desenvolvimento, a implantação e a escalabilidade independentes de diferentes partes do sistema.
