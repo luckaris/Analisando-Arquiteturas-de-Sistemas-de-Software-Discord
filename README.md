@@ -19,14 +19,6 @@ O Discord é uma plataforma de comunicação para comunidades online, oferecendo
   
 - **Latência Baixa**: A latência média do Discord é mantida abaixo de 50 milissegundos para garantir uma experiência de comunicação fluida, especialmente durante chamadas de voz e vídeo.
 
-## Requisitos de Segurança
-
-- **Proteção contra Ataques DDoS**: O Discord emprega uma variedade de técnicas para mitigar ataques DDoS, incluindo filtragem de tráfego malicioso e parcerias com provedores de serviços de segurança.
-  
-- **Privacidade dos Usuários**: A plataforma adere a padrões rigorosos de privacidade de dados, incluindo conformidade com regulamentações como GDPR e CCPA. As mensagens de texto são criptografadas em repouso e em trânsito, garantindo a segurança e a privacidade das comunicações dos usuários.
-  
-- **Prevenção de Abusos**: O Discord implementa tecnologias de detecção de abusos, como filtros automáticos de spam e sistemas de moderação, para garantir um ambiente seguro e acolhedor para todos os usuários.
-
 ## Tecnologias Utilizadas
 
 - **Arquitetura de Microsserviços**: O Discord é construído com uma arquitetura de microsserviços, que permite o desenvolvimento, a implantação e a escalabilidade independentes de diferentes partes do sistema.
@@ -56,6 +48,11 @@ O Discord utiliza uma arquitetura de microsserviços distribuídos para construi
 4. **Segurança**:
     - **Requisito**: Proteger os dados dos usuários e a integridade do sistema.
     - **Decisão de Projeto**: Implementação de criptografia de ponta a ponta para comunicações sensíveis e conformidade com regulamentações de privacidade como GDPR e CCPA.
+    - **Proteção contra Ataques DDoS**: O Discord emprega uma variedade de técnicas para mitigar ataques DDoS, incluindo filtragem de tráfego malicioso e parcerias com provedores de serviços de segurança.
+    - **Privacidade dos Usuários**: A plataforma adere a padrões rigorosos de privacidade de dados, incluindo conformidade com regulamentações como GDPR e CCPA. As mensagens de texto são criptografadas em repouso e em trânsito, garantindo a segurança e a privacidade   
+das comunicações dos usuários.
+    - **Prevenção de Abusos**: O Discord implementa tecnologias de detecção de abusos, como filtros automáticos de spam e sistemas de moderação, para garantir um ambiente seguro e acolhedor para todos os usuários.
+
 
 ## Decisões de Projeto
 
