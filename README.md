@@ -119,7 +119,3 @@ O Discord utiliza uma arquitetura de microsserviços distribuídos para construi
 ## Conclusão
 
 O Discord é uma plataforma de comunicação robusta e escalável, que atende a milhões de usuários em todo o mundo. Com uma arquitetura flexível, medidas de segurança avançadas e um foco na experiência do usuário, o Discord continua a ser uma das principais ferramentas de comunicação na internet. A evolução contínua da sua arquitetura e a adoção de novas tecnologias permitem que o Discord atenda às demandas crescentes de sua base de usuários diversificada.
-
-## Conclusão
-
-O Discord é uma plataforma de comunicação robusta e escalável, que atende a milhões de usuários em todo o mundo. Com uma arquitetura flexível, medidas de segurança avançadas e um foco na experiência do usuário, o Discord continua a ser uma das principais ferramentas de comunicação na internet.
